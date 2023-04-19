@@ -16,7 +16,7 @@ function Admin() {
     }
 
     return (
-        <Layout>
+        <Layout> 
 
             <div className={style.container}>
                 <div className={style.imgContainer}>
